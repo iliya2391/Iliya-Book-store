@@ -14,7 +14,7 @@ a {
 }
 
 body {
-  background-image: url("books/images/background.jpeg");
+  background-image: url("/books/images/background.jpeg");
   margin: 10;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
     'Droid Sans', 'Helvetica Neue', sans-serif;
